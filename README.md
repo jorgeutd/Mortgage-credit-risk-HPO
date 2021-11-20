@@ -7,6 +7,11 @@ I am using Tune-sklearn & Optuna with ray here primarily for tuning Scikit-Learn
 
 The dataset used was obtained from creditriskanalytics.
 
+The goal was to of accurately predict the likelihood of a borrower’ default of a mortgage loan from two classes (Binary classification):
+
+0: Non-Default
+1: Default
+
 
 ## Future Opportunities
 
